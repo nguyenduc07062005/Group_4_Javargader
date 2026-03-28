@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Error</title>
+</head>
+<body>
+<main>
+    <h1 th:text="${error.errorCode}">UNEXPECTED_ERROR</h1>
+    <p th:text="${error.message}">An unexpected error occurred.</p>
+    <p th:text="${error.suggestion}">Please retry later.</p>
+</main>
+</body>
+</html>

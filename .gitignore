@@ -6,3 +6,12 @@
 
 Thumbs.db
 Desktop.ini
+
+# Course source documents kept local only
+/Group4_SRS_Phase3_JavaCodeGraderfinal.docx
+/Lecture *.pdf
+/gợi ý của thầy.pdf
+
+# Local runtime artifacts
+/Group_4_JavaGrader/data/
+/Group_4_JavaGrader/*.log
