@@ -1,4 +1,4 @@
-.idea/
+﻿.idea/
 *.iml
 
 **/target/
@@ -15,3 +15,8 @@ Desktop.ini
 # Local runtime artifacts
 /Group_4_JavaGrader/data/
 /Group_4_JavaGrader/*.log
+
+# Local planning notes kept outside the repo
+/phase-0-requirement-freeze.md
+/phase-by-phase-implementation-roadmap.md
+/website-implementation-plan.md
