@@ -6,3 +6,8 @@
 
 Thumbs.db
 Desktop.ini
+
+# Local planning notes kept outside the repo
+/phase-0-requirement-freeze.md
+/phase-by-phase-implementation-roadmap.md
+/website-implementation-plan.md
